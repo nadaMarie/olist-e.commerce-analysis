@@ -29,7 +29,7 @@ Before analysis, extensive data cleaning and validation were performed across 9 
 • Checked missing values
 
 ## 🗂️ Data Modeling
-• Built a relational data model connecting orders, sellers, customers, products, payments, and reviews using dbdiagram.io
+• Built a relational data model connecting orders, sellers, customers, products, payments, and reviews using dbdiagram.io and Tableau during the visualization stage
 
 • Ensured referential integrity across all joins
 
@@ -88,6 +88,10 @@ Before analysis, extensive data cleaning and validation were performed across 9 
 ### 8.Demand & Promotional Opportunities
 • Identification of low-demand months for targeted offers
 
+## 📊 Dashboard
+• Tableau Public Dashboard:
+https://public.tableau.com/views/Olist_E-commerce_Project/Executive_Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 🧠 Key Insights
 • 82% of delivery delays are logistics-dominated, while 9% are seller-dominated
 
@@ -101,6 +105,17 @@ Before analysis, extensive data cleaning and validation were performed across 9 
 
 • Most cancellations occur after approval and before carrier, indicating seller-side issues
 
+## 🔸 Recommendations
+• Expand seller coverage in high-demand states to reduce delivery pressure
+
+• Invest in logistics optimization to minimize delivery delays
+
+• Develop retention strategies targeting repeat customers
+
+• Promote categories with low order volume through targeted offers (e.g., Security and Kitchenware, which are priced higher than Health & Beauty)
+
+• Launch promotional campaigns during low-demand months such as September and October
+
 ## 🛠️ Tools Used
 • SQL (MySQL)
 
@@ -109,3 +124,5 @@ Before analysis, extensive data cleaning and validation were performed across 9 
 • Window Functions & CTEs
 
 • dbdiagram.io (Data Modeling)
+
+• Tableau (Visualization)
